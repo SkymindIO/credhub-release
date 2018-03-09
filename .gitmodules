@@ -1,3 +1,4 @@
 [submodule "src/credhub"]
 	path = src/credhub
-	url = https://github.com/cloudfoundry-incubator/credhub.git
+	url = https://github.com/SkymindIO/credhub.git
+	branch = skymind-skil-1.1.0
